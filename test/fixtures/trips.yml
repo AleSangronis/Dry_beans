@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: viaje1,
+  route_id: 1
+
+two:
+  code: viaje2,
+  route_id: 1
+
+three:
+  code: viaje3,
+  route_id: 2
